@@ -28,6 +28,7 @@ public class yogu2 {
 		
  					}
  				System.out.println();
+ 				
  		}
 	}
 }
